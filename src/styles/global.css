@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  background-color: #feffca;
+  background-color: #005091;
   user-select: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -71,7 +71,7 @@ textarea {
 }
 
 .title {
-  color: #fab1a0;
+  color: #b8e2ff;
   font-size: 64px;
   font-weight: 100;
   text-align: center;
