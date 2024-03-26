@@ -39,37 +39,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
 ![todo-list1](https://github.com/Alexandre-Konrath/Lista-de-Tarefas/assets/160286787/d049e69a-af75-4a43-b89d-ea2415103be0)
+pode escrever, apagar e ate riscar a tarefa que ja foi comprida.
 ![todo-list2](https://github.com/Alexandre-Konrath/Lista-de-Tarefas/assets/160286787/63fed54f-a192-4e81-be39-df050775462b)
 ![todo-list3](https://github.com/Alexandre-Konrath/Lista-de-Tarefas/assets/160286787/1812aab2-e2d7-4c65-9f82-f5b25646d3d3)
 ![todo-list4](https://github.com/Alexandre-Konrath/Lista-de-Tarefas/assets/160286787/ed6e8eef-4016-4b38-a699-e6d053f7cc45)
